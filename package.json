@@ -1,9 +1,9 @@
 {
-  "name": "@reybard/react",
-  "version": "1.0.1",
+  "name": "@bbq-beets/react",
+  "version": "1.0.2",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/reybard/react.git"
+    "url" : "https://github.com/bbq-beets/react-1.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
